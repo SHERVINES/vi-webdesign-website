@@ -19,10 +19,10 @@
   width: 1200px;
   height: 75px;
   margin: auto;
+  display: flex;
 }
 .icon {
   width: 200px;
-  float: left;
   height: 75px;
 }
 .logo {
@@ -35,11 +35,9 @@
 }
 .menu {
   width: 400px;
-  float: left;
   height: 70px;
 }
 ul {
-  float: left;
   display: flex;
   justify-content: center;
   text-align: center;
